@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Level11_OOPVertiefung/Level11_Loesungen/AufgabeAbstrakteKlassen/AufgabeAbstrakteKlassen.iml" filepath="$PROJECT_DIR$/Level11_OOPVertiefung/Level11_Loesungen/AufgabeAbstrakteKlassen/AufgabeAbstrakteKlassen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level11_OOPVertiefung/Level11_Loesungen/AufgabeInterfaces/AufgabeInterfaces.iml" filepath="$PROJECT_DIR$/Level11_OOPVertiefung/Level11_Loesungen/AufgabeInterfaces/AufgabeInterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level11_OOPVertiefung/Level11_Loesungen/AufgabeVererbung/AufgabeVererbung.iml" filepath="$PROJECT_DIR$/Level11_OOPVertiefung/Level11_Loesungen/AufgabeVererbung/AufgabeVererbung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level01_VariablenUndDatentypen/Aufgaben/Aufgaben.iml" filepath="$PROJECT_DIR$/Level01_VariablenUndDatentypen/Aufgaben/Aufgaben.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaKurs.iml" filepath="$PROJECT_DIR$/JavaKurs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level00_JavaBasics/Level00_JavaBasics.iml" filepath="$PROJECT_DIR$/Level00_JavaBasics/Level00_JavaBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level01_VariablenUndDatentypen/Level01_Loesungen/Level01_Loesungen.iml" filepath="$PROJECT_DIR$/Level01_VariablenUndDatentypen/Level01_Loesungen/Level01_Loesungen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level01_VariablenUndDatentypen/Level01_VariablenUndDatentypen.iml" filepath="$PROJECT_DIR$/Level01_VariablenUndDatentypen/Level01_VariablenUndDatentypen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level02_Output/Level02_Loesungen/Level02_Loesungen.iml" filepath="$PROJECT_DIR$/Level02_Output/Level02_Loesungen/Level02_Loesungen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level02_Output/Level02_Output.iml" filepath="$PROJECT_DIR$/Level02_Output/Level02_Output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level03_Input/Level03_Input.iml" filepath="$PROJECT_DIR$/Level03_Input/Level03_Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level03_Input/Level03_Loesungen/Level03_Loesungen.iml" filepath="$PROJECT_DIR$/Level03_Input/Level03_Loesungen/Level03_Loesungen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level04_Conditions/Level04_Conditions.iml" filepath="$PROJECT_DIR$/Level04_Conditions/Level04_Conditions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level04_Conditions/Level04_Loesungen/Level04_Loesungen.iml" filepath="$PROJECT_DIR$/Level04_Conditions/Level04_Loesungen/Level04_Loesungen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level05_Loops/Level05_Loesungen/Level05_Loesungen.iml" filepath="$PROJECT_DIR$/Level05_Loops/Level05_Loesungen/Level05_Loesungen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level05_Loops/Level05_Loops.iml" filepath="$PROJECT_DIR$/Level05_Loops/Level05_Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level06_Arrays/Level06_Arrays.iml" filepath="$PROJECT_DIR$/Level06_Arrays/Level06_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level06_Arrays/Level06_Loesungen/Level06_Loesungen.iml" filepath="$PROJECT_DIR$/Level06_Arrays/Level06_Loesungen/Level06_Loesungen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level07_ArrayList/Level07_ArrayList.iml" filepath="$PROJECT_DIR$/Level07_ArrayList/Level07_ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level07_ArrayList/Level07_Loesungen/Level07_Loesungen.iml" filepath="$PROJECT_DIR$/Level07_ArrayList/Level07_Loesungen/Level07_Loesungen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level08_Methoden/Level08_Loesungen/Level08_Loesungen.iml" filepath="$PROJECT_DIR$/Level08_Methoden/Level08_Loesungen/Level08_Loesungen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level08_Methoden/Level08_Methoden.iml" filepath="$PROJECT_DIR$/Level08_Methoden/Level08_Methoden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level09_Fehlerbehandlung/Level09_Fehlerbehandlung.iml" filepath="$PROJECT_DIR$/Level09_Fehlerbehandlung/Level09_Fehlerbehandlung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level10_OOP/Level10_Loesungen/Level10_Loesungen.iml" filepath="$PROJECT_DIR$/Level10_OOP/Level10_Loesungen/Level10_Loesungen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level10_OOP/Level10_OOP.iml" filepath="$PROJECT_DIR$/Level10_OOP/Level10_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level11_OOPVertiefung/Level11_Loesungen/Level11_Loesungen.iml" filepath="$PROJECT_DIR$/Level11_OOPVertiefung/Level11_Loesungen/Level11_Loesungen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level11_OOPVertiefung/Level11_OOPVertiefung.iml" filepath="$PROJECT_DIR$/Level11_OOPVertiefung/Level11_OOPVertiefung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Level12_SwingApp/Level12_SwingApp.iml" filepath="$PROJECT_DIR$/Level12_SwingApp/Level12_SwingApp.iml" />
+    </modules>
+  </component>
+</project>
